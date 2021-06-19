@@ -6,3 +6,8 @@ first django project
 - `pip install django~=3.1.0`
 - `pip install gunicorn==19.9.0`
 - `pip freeze > requirements.txt`
+
+## Pages Tutorial
+
+## Message Board App
+
